@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZPbzrHvIAeGvEh5uFAPBh923QafYJZkpHa9DCYGLvh5wxEeOC2eCTwst1S4nfmRPeoe2gq8lSf7AwxIdXhpRhw==",
+  "success": true,
+  "projectFilePath": "D:\\Univer\\Anul IV\\PAD\\Lab_1_Ti-212_Lunca\\PAD_Lab\\Publisher\\Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lunca\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

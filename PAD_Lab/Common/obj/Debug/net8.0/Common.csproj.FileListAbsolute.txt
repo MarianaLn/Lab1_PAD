@@ -1,0 +1,12 @@
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\bin\Debug\net8.0\Common.deps.json
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\bin\Debug\net8.0\Common.dll
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\bin\Debug\net8.0\Common.pdb
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\Common.csproj.AssemblyReference.cache
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\Common.dll
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\refint\Common.dll
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\Common.pdb
+D:\Univer\Anul IV\PAD\Lab_1_Ti-212_Lunca\PAD_Lab\Common\obj\Debug\net8.0\ref\Common.dll
