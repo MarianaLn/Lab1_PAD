@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzfXkzo7Vdrv3i/i9vanQtDzjzZ33SGVh8G+8qP+JOcAN80JyZuxi1/YcbZftTFn5faKySRUhhT6od3GZRZ8gQ==",
+  "success": false,
+  "projectFilePath": "D:\\Univer\\Anul IV\\PAD\\Lab_1_Ti-212_Lunca\\Lab1_MessageAgent\\Subscriber\\Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lunca\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\Univer\\Anul IV\\PAD\\Lab_1_Ti-212_Lunca\\PAD_Lab\\Common\\Common.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\Univer\\Anul IV\\PAD\\Lab_1_Ti-212_Lunca\\PAD_Lab\\Common\\Common.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\Univer\\Anul IV\\PAD\\Lab_1_Ti-212_Lunca\\PAD_Lab\\Publisher\\Publisher.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\Univer\\Anul IV\\PAD\\Lab_1_Ti-212_Lunca\\PAD_Lab\\Publisher\\Publisher.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
